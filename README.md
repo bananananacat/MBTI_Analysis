@@ -6,7 +6,6 @@ HSE ML course project
 foo@bar:~$ pip3 install -r requirements.txt
 ```
 
-**Team:
-
-*Kuznetsov Nikita
-*Levin Mark
+### Team:
+- Kuznetsov Nikita
+- Levin Mark
