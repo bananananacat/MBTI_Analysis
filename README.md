@@ -1,8 +1,12 @@
 # MBTI_Analysis
 HSE ML course project
 
-Team:
+### installing dependencies
+```console
+foo@bar:~$ pip3 install -r requirements.txt
+```
 
-Kuznetsov Nikita
+**Team:
 
-Levin Mark
+*Kuznetsov Nikita
+*Levin Mark
