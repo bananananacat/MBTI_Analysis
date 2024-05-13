@@ -1,0 +1,4 @@
+pandas
+hydra-core
+nltk
+aiogram====2.25.1
