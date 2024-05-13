@@ -23,7 +23,7 @@ class Config:
     files: Files = field(default_factory=Files)
 
 
-TOKEN = "7110867946:AAGaB6AqkE6s2pDEpjozRXSPCazN2Q4r7vA"
+TOKEN = ""
 
 mbti_map_r = dict(
     zip(
