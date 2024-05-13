@@ -1,4 +1,5 @@
 pandas
 hydra-core
 nltk
+catboost
 aiogram====2.25.1
