@@ -1,4 +1,6 @@
 pandas
+scikit-learn==1.4.2
+seaborn
 hydra-core
 nltk
 catboost
